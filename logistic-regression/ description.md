@@ -1,5 +1,4 @@
-### Step-by-Step Explanation of the Notebook (Without Code)
-
+### Step-by-Step Explanation of preprocessing and the logistic model
 ---
 
 #### **1. Libraries and Data Loading**
